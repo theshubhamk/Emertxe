@@ -1,6 +1,6 @@
 #!/bin/bash
 #SCRIPT : database.sh
-
+#change
 << purpose
 PURPOSE : Create,search,edit and view database on following parameters
           name
